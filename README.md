@@ -25,3 +25,4 @@ The API exposes the following endpoints for managing journal entries:
 | `PUT` | `/journal/{id}` | Updates an existing journal entry by its ID. |
 | `DELETE` | `/journal/{id}` | Deletes a journal entry by its ID. |
 
+This project, the Spring Boot Journal API, was developed solely as a personal learning exercise. Its purpose is to demonstrate my foundational understanding of building a RESTful service with Spring Boot. I plan to continue improving it as I learn more advanced concepts.
