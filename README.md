@@ -1,5 +1,4 @@
-Robust RESTful API built with Spring Boot for a personal journaling application. It allows users to create, view, update, and delete their journal entries.
-
+Robust RESTful API built with Spring Boot for a personal journaling application.
 ***
 
 ### 🛠️ Technologies Used
